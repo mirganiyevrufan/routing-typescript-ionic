@@ -1,0 +1,7 @@
+{
+  "name": "assignment8_routing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
